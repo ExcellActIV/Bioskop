@@ -1,2 +1,0 @@
-# Bioskop
-Kasus 2
